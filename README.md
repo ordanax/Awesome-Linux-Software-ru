@@ -215,6 +215,7 @@
 - [NodeJS](https://nodejs.org/en/) - Среда выполнения JavaScript на движке V8 от Chrome. ![Freeware][Freeware Icon]
 - [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Набор пакетов и тем для расширения функциональности fish shell. [![Open-Source Software][OSS Icon]](https://github.com/oh-my-fish/oh-my-fish) ![Freeware][Freeware Icon]
 - [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Управление конфигурацией zsh, поддерживаемое сообществом. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/robbyrussell/oh-my-zsh)
+- [OpenCode](https://opencode.me/) - Современная среда разработки с открытым исходным кодом, сочетающая в себе мощный редактор кода, встроенную поддержку Git, отладчик и инструменты для рефакторинга. Поддерживает большинство популярных языков программирования и легко расширяется с помощью плагинов. [![Open-Source Software][OSS Icon]](https://github.com/opencode/opencode) ![Freeware][Freeware Icon]
 - [Pencil](http://pencil.evolus.vn/) - Открытый инструмент для прототипирования GUI для всех платформ. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/evolus/pencil)
 - [Pick](http://kryogenix.org/code/pick/) - Простой выборщик цвета. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]]( https://github.com/stuartlangridge/ColourPicker)
 - [Postgresql](https://www.postgresql.org/download/) - Мощная объектно-реляционная СУБД с открытым кодом. ![Freeware][Freeware Icon]
