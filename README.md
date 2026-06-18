@@ -340,9 +340,9 @@
 - [DarkPlaces](https://icculus.org/twilight/darkplaces/) - Модифицированный движок Quake для улучшения производительности и графики. [![Open-Source Software][OSS Icon]](https://icculus.org/twilight/darkplaces/) ![Freeware][Freeware Icon]
 - [Desura](http://www.desura.com/about) - Сервис цифровой дистрибуции для игр и модов (в настоящее время перезапускается).
 - [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy) - Игра-головоломка для тренировки мозга. [![Open-Source Software][OSS Icon]](https://wiki.gnome.org/action/show/Apps/gbrainy?action=show&redirect=gbrainy#Source_code) ![Freeware][Freeware Icon]
+- [Luanti](https://www.luanti.org/) (ранее — **Minetest**) - Свободная платформа с открытым исходным кодом для создания воксельных игр. Предлагает множество готовых игр для одиночного и многопользовательского режима, а также мощный API для модификации на языке Lua. [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest) ![Freeware][Freeware Icon]
 - [Lutris](https://lutris.net) - Открытая игровая платформа для Linux с управлением играми в едином интерфейсе. ![Freeware][Freeware Icon]
 - [Minecraft](https://minecraft.net/en/download/?ref=m) - Игра о строительстве и приключениях в процедурно-генерируемых мирах. ![Freeware][Freeware Icon]
-- [Minetest](http://www.minetest.net/) - Открытая альтернатива Minecraft на C++ с меньшим потреблением ресурсов и API для модов. [![Open-Source Software][OSS Icon]](https://github.com/minetest) ![Freeware][Freeware Icon]
 - [Mudlet](http://www.mudlet.org/) - Кроссплатформенный клиент для MUD (текстовые MMORPG) со скриптингом на Lua. [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) ![Freeware][Freeware Icon]
 - [NXEngine](http://nxengine.sourceforge.net/) - Порт игры Cave Story на Linux (сборка из исходников). [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/nxengine/) ![Freeware][Freeware Icon]
 - [OhMyGiraffe](http://www.ohmygiraffe.com/) - Забавная игра на выживание: жираф ест фрукты, убегая от львов. ![Freeware][Freeware Icon]
@@ -505,6 +505,7 @@
 - [Update-IPsets](https://iplists.firehol.org) - Менеджер для загрузки и установки netfilter ipsets. [![Open-Source Software][OSS Icon]](https://github.com/firehol/blocklist-ipsets) ![Freeware][Freeware Icon]
 
 ### Файловый обмен
+- [AnyDesk](https://anydesk.com/) - Быстрое и надёжное приложение для удалённого доступа, позволяющее подключаться к компьютерам из любой точки мира. Поддерживает передачу файлов, VPN-функциональность и работает на большинстве Linux-дистрибутивов. [![Freeware][Freeware Icon]]
 - [aria2](https://aria2.github.io/) - Лёгкая многопротокольная утилита для загрузки. [![Open-Source Software][OSS Icon]](https://github.com/aria2/aria2) ![Freeware][Freeware Icon]
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - Простой FTP-клиент. ![Freeware][Freeware Icon]
 - [D-lan](http://www.d-lan.net/) - Бесплатное ПО для обмена файлами в локальной сети. ![Freeware][Freeware Icon]
